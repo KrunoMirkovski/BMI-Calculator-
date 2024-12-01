@@ -1,8 +1,8 @@
-_BMI Calculator_
+**BMI Calculator**
 
 The BMI Calculator is a simple React-based application that allows users to calculate their Body Mass Index (BMI) based on their weight and height. It also provides a BMI category (e.g., Underweight, Normal weight, Overweight, Obesity) based on the calculated BMI value.
 
-_Features_
+**Features**
 
     User Input: Enter your weight (in kilograms) and height (in centimeters).
     BMI Calculation: Instantly calculate your BMI with the click of a button.
@@ -13,14 +13,14 @@ _Features_
         Obesity: BMI ≥ 30
     Reset Functionality: Clear all input fields and results with a reset button.
 
-_How It Works_
+**How It Works**
 
     Enter your weight in kilograms.
     Enter your height in centimeters.
     Click Calculate to see your BMI and corresponding category.
     Click Reset to clear the inputs and results.
 
-_Technologies Used_
+**Technologies Used**
 
     React: For building the user interface.
     CSS: For styling the application.
